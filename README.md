@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Advance Python, SQL**
 
-- 👯 I’m looking to collaborate on [Briva Jewelry](https://www.instagram.com/briva_jewelry/)
+- 👯 I’m Working with [Briva Jewelry](https://www.instagram.com/briva_jewelry/)
 
 - 👨‍💻 All of my projects are available at [mithildabhi](https://github.com/mithildabhi)
 
