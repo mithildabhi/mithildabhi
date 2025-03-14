@@ -98,11 +98,10 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mithildabhi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithildabhi&show_icons=true&locale=en&layout=compact" alt="mithildabhi" /></p></div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithildabhi&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithildabhi&show_icons=true&locale=en&layout=compact" alt="mithildabhi" />
+</div>  
 
 
 
