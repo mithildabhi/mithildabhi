@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithildabhi&show_icons=true&locale=en&layout=compact" alt="mithildabhi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithildabhi&show_icons=true&locale=en&layout=compact" alt="mithildabhi" /></p>
 
 
 
