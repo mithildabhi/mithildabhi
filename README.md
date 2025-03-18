@@ -31,7 +31,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 📫 How to reach me **mithildabhi898@gmail.com**
 
-- 📄 Know about my experiences [mithildabhi.me](mithildabhi.me)
+- 📄 Know about my experiences [mithildabhi.me](https://mithildabhi.me/)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
