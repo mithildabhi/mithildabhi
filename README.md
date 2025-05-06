@@ -26,8 +26,6 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 🌱 I’m currently learning **Advance Python, SQL**
 
-# - 👯 I’m Working with [Briva Jewelry](https://www.instagram.com/briva_jewelry/)
-
 - 👨‍💻 All of my projects are available at [mithildabhi](https://mithildabhi)
 
 - 📫 How to reach me **mithildabhi898@gmail.com**
