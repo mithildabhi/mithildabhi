@@ -69,7 +69,6 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 
