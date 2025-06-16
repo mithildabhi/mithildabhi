@@ -89,8 +89,8 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 ## Github Stats  
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithildabhi&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithildabhi&show_icons=true&locale=en&layout=compact" alt="mithildabhi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mithildabhi&theme=merko&show_icons=true" align="left" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithildabhi&show_icons=true&locale=en&layout=compact" alt="mithildabhi" />
 </div>  
 
 
