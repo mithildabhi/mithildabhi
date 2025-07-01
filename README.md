@@ -26,7 +26,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 🌱 I’m currently learning **Advance Python, SQL**
 
-- 👨‍💻 All of my projects are available at [mithildabhi](https://mithildabhi)
+- 👨‍💻 All of my projects are available at [mithildabhi](https://github.com/mithildabhi)
 
 - 📫 How to reach me **mithildabhi898@gmail.com**
 
