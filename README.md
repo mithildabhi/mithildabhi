@@ -51,9 +51,9 @@ me.say_hi()
 - 🌱 Learning **Advanced Python, SQL, AI/ML, and Cloud Technologies**
 - 💼 Seeking opportunities in **Python Development, Backend Engineering, and Data Science**
 - 💬 Ask me about **Python, Django, Flask, SQL, Data Analysis, Web Scraping**
-- 📫 Reach me at **mithildabhi898@gmail.com** or **+91 9173298372**
+- 📫 Reach me at **mithildabhi898@gmail.com**
 - 🌐 Portfolio: **[mithildabhi.in](https://mithildabhi.in/)**
-- 📄 [View My Resume](https://mithildabhi.in/resume)
+- 📄 [View My Resume](https://drive.google.com/file/d/195od-GsgsC5fugPKAKtzuoqFrhgSkAyS/view)
 
 ---
 
@@ -66,14 +66,6 @@ me.say_hi()
 - Utilized **Pandas** and **NumPy** for data analysis and processing
 - Collaborated with real-world client teams, enhancing communication and delivery skills
 - Created visualizations with Matplotlib/Seaborn to support business decisions
-
-### 🔹 Data Science Intern
-**Prodigy InfoTech** | *May 2025*
-- Visualized data distributions using bar charts and histograms
-- Performed data cleaning and EDA on the Titanic dataset to uncover trends
-- Built a decision tree model to predict customer purchase behavior
-- Developed a linear regression model for house price prediction
-- Created K-Means clustering models to group similar data points
 
 ---
 
@@ -246,7 +238,7 @@ Gajera Eng Med School (GHSEB) | *2020 - 2022* | **Grade: 60%**
 <p align="center">
   <img src="https://img.shields.io/badge/Projects_Completed-7+-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   <img src="https://img.shields.io/badge/Achievements-3+-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Achievements"/>
-  <img src="https://img.shields.io/badge/Internships-2-1E88E5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internships"/>
+  <img src="https://img.shields.io/badge/Internships-1-1E88E5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internships"/>
 </p>
 
 ---
