@@ -169,32 +169,7 @@ skills = {
 - Utilized Gmail's secure SMTP with TLS encryption for notifications
 - Monitors products and sends real-time alerts when prices decrease
 
-### 🔹 Additional Projects
-- **Password Manager** - MyPass: Secure password generation and storage using Python & Tkinter
-- **Cafe API Web App** - RESTful API for cafe management
-- **Power BI Statistical Dashboard** - Virat Kohli performance analytics
-- **Diwali Sales Data Analysis** - EDA to improve customer experience
-
-**📊 7+ Projects Completed** | [View More on GitHub](https://github.com/mithildabhi)
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Engineering**  
-LDRP Institute of Technology and Research | Kadi Sarva Vishwavidyalaya University  
-*2022 - 2026* | **CPI: 7.45/10** | Currently in 7th Semester
-
-**Higher Secondary School (12th Standard)**  
-Gajera Eng Med School (GHSEB) | *2020 - 2022* | **Grade: 60%**
-
----
-
-## 📜 Certifications
-
-- 🎓 **WordPress for Beginners** - Coursera (March 2025)
-- 🎓 **Python for Data Science** - NPTEL (July-August 2024)
-- 🎓 **Enhancing Soft Skills & Personality** - NPTEL (February-April 2023)
+**📊 7+ Projects Completed** | [View More on GitHub](https://github.com/mithildabhi?tab=repositories)
 
 ---
 
@@ -215,23 +190,6 @@ Gajera Eng Med School (GHSEB) | *2020 - 2022* | **Grade: 60%**
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithildabhi/mithildabhi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithildabhi/mithildabhi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mithildabhi/mithildabhi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithildabhi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
----
 
 ## 📈 Achievements
 
@@ -240,14 +198,6 @@ Gajera Eng Med School (GHSEB) | *2020 - 2022* | **Grade: 60%**
   <img src="https://img.shields.io/badge/Achievements-3+-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Achievements"/>
   <img src="https://img.shields.io/badge/Internships-1-1E88E5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internships"/>
 </p>
-
----
-
-## 🌐 Languages
-
-- 🇬🇧 **English** - Professional
-- 🇮🇳 **Hindi** - Native
-- 🇮🇳 **Gujarati** - Native
 
 ---
 
