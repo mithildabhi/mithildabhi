@@ -53,7 +53,7 @@ me.say_hi()
 - 💬 Ask me about **Python, Django, Flask, SQL, Data Analysis, Web Scraping**
 - 📫 Reach me at **mithildabhi898@gmail.com**
 - 🌐 Portfolio: **[mithildabhi.in](https://mithildabhi.in/)**
-- 📄 [View My Resume](https://drive.google.com/file/d/195od-GsgsC5fugPKAKtzuoqFrhgSkAyS/view)
+- 📄 [View My Resume](https://drive.google.com/file/d/1LhV6cWdM74Ki7kd5y0Sno2OKrKeJs3YG/view?usp=sharing)
 
 ---
 
