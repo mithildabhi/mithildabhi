@@ -138,35 +138,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithildabhi&theme=tokyonight" alt="mithildabhi" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithildabhi&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-
-## 📈 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects_Completed-7+-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Achievements-3+-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Achievements"/>
-  <img src="https://img.shields.io/badge/Internships-1-1E88E5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internships"/>
-</p>
-
 ---
 
 ## 📈 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mithildabhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 ---
