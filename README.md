@@ -18,34 +18,7 @@
 
 ## 🚀 About Me
 
-```python
-class PythonDeveloper:
-    def __init__(self):
-        self.name = "Mithil Dabhi"
-        self.role = "Aspiring Python Developer | Final Year BE (CE) Student"
-        self.location = "Surat, Gujarat, India"
-        self.education = "Bachelor of Engineering in Computer Engineering"
-        self.university = "Kadi Sarva Vishwavidyalaya University"
-        self.cpi = "7.45/10"
-        self.currently_learning = ["Advanced Python", "SQL Optimization", "AI/ML Tools"]
-        self.interests = ["Web Development", "Data Analysis", "Automation", "AI Apps"]
-        self.hobbies = ["Traveling", "Photography"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-    
-    def about_me(self):
-        return """Passionate Python developer with a strong foundation in data analysis,
-        web development, and automation. Skilled in Flask, Django, SQL, and emerging 
-        AI/ML tools. Experienced in building scalable web apps and solving real-world 
-        problems through code. Always eager to learn and contribute to impactful 
-        open-source and team-based projects."""
-
-me = PythonDeveloper()
-me.say_hi()
-```
-
-**Entry-level Python Developer** skilled in web development, data analysis, and automation. Passionate about building data-driven applications using Python, Flask, Django, and AI/ML tools, with a focus on continuous learning and impactful solutions.
+**Entry-level Python Developer** skilled in web development, automation. Passionate about building data-driven applications using Python, Flask, Django, and AI/ML tools, with a focus on continuous learning and impactful solutions.
 
 - 🔭 Currently working on **AI-powered web applications and data analytics projects**
 - 🌱 Learning **Advanced Python, SQL, AI/ML, and Cloud Technologies**
@@ -122,54 +95,35 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
-### Skill Proficiency
-```python
-skills = {
-    "Python": "90%",
-    "Python-Django": "90%", 
-    "SQL": "70%",
-    "Data Visualization": "60%",
-    "Machine Learning": "30%"
-}
-```
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Smart Job Portal](https://github.com/mithildabhi)
+### 🔹 [Smart Job Portal](https://github.com/mithildabhi/Smart-Job-Portal)
 **Tech Stack:** Python, Django, HTML, Bootstrap
 - Built a role-based job portal enabling students to apply for jobs and companies to post openings
 - Implemented job applications, bookmarking, resume uploads, and status tracking
 - Companies can shortlist, reject, and hire applicants through an intuitive dashboard
 - Streamlined the placement process making it easier and more efficient
 
-### 🔹 [RAG-based Chatbot with LLM Integration](https://github.com/mithildabhi)
+### 🔹 [RAG-based Chatbot with LLM Integration](https://github.com/mithildabhi/RAG-Chatbot-LLM-and-Flask)
 **Tech Stack:** Python, Flask, Gemini AI, Pandas, Qdrant
 - Developed a RAG (Retrieval-Augmented Generation) chatbot using Flask
 - Integrated Google's Gemini API for intelligent, context-aware responses
 - Built file upload functionality supporting CSV, PDF, DOCX with real-time processing
 - Implemented chat history memory for contextual conversations
 
-### 🔹 [AI-Powered Salon Booking App](https://github.com/mithildabhi)
+### 🔹 [Salon Booking and Management App](https://github.com/mithildabhi/Grooming_service)
 **Tech Stack:** Flutter, Dart, Python, Django
 - Created an AI-powered salon booking system to match users with perfect stylists
 - Developed cross-platform mobile application using Flutter
 - Built backend API with Django for booking management
 
-### 🔹 [Car-pooling Application](https://github.com/mithildabhi)
+### 🔹 [Car-pooling Application](https://github.com/mithildabhi/car-connect-car-pooling)
 **Tech Stack:** Flutter, Dart, Python, Django
 - Developed ride-sharing application for cost-effective carpooling
 - Implemented real-time ride matching and booking system
 - Private car owners can share rides to destinations at reduced fares
-
-### 🔹 [Amazon Product Price Alert](https://github.com/mithildabhi)
-**Tech Stack:** Python, BeautifulSoup, Requests, Gmail SMTP
-- Automated email alerts for Amazon product price drops using web scraping
-- Utilized Gmail's secure SMTP with TLS encryption for notifications
-- Monitors products and sends real-time alerts when prices decrease
-
-**📊 7+ Projects Completed** | [View More on GitHub](https://github.com/mithildabhi?tab=repositories)
 
 ---
 
